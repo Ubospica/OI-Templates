@@ -21,7 +21,6 @@ vmap <c-x> "+d
 
 map <F5> :w<CR>:!g++ % -o exec -g3 -std=c++11 -Wall -Wextra && gdb exec <CR>
 map <F9> :w<CR>:!g++ % -o exec -O2 -std=c++11 -Wall -Wextra && ./exec <CR>
-map <f6> :w<cr>:
 
 inoremap ' ''<esc>i
 inoremap " ""<esc>i
