@@ -18,6 +18,8 @@ map  <c-v> "+pi
 imap <c-v> <esc><c-v>
 vmap <c-c> "+y
 vmap <c-x> "+d
+imap <c-e> <esc><c-e>i<right>
+imap <c-y> <esc><c-y>i<right>
 
 map <F5> :w<CR>:!g++ % -o exec -g3 -std=c++11 -Wall -Wextra && gdb exec <CR>
 map <F9> :w<CR>:!g++ % -o exec -O2 -std=c++11 -Wall -Wextra && ./exec <CR>
@@ -27,5 +29,4 @@ inoremap " ""<esc>i
 inoremap ( ()<esc>i
 inoremap [ []<esc>i
 inoremap { {}<esc>i
-
 
