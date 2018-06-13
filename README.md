@@ -2,4 +2,4 @@
 
 vimrc -- for oi
 
-updated 06/11/2018
+updated 06/13/2018
