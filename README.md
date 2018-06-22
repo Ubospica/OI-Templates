@@ -1,6 +1,6 @@
 # OI Templates
 
 - base: Base files.
- - .vimrc
- - gdb.in
- - template.cpp
+  - .vimrc
+  - gdb.in
+  - template.cpp
