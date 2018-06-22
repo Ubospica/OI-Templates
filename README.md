@@ -1,5 +1,7 @@
-# vimrc
+# OI Templates
 
-vimrc -- for oi
-
-updated 06/13/2018
+### base
+Base files.
+ - .vimrc
+ - gdb.in
+ - template.cpp
