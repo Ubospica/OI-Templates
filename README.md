@@ -6,4 +6,4 @@
   - `.vimrc`
   - `gdb.in`
   - `template.cpp`
-- algo: Algorithm Templates Library (aka SCL, Standard Code Library)
+- algo: Algorithm Templates Library (aka SCL, Standard Code Library), including algorithms and data-structures
