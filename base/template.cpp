@@ -7,7 +7,6 @@
 using namespace std;
 #define rep(i,l,r) for(register int i=(l);i<=(r);++i)
 #define repdo(i,l,r) for(register int i=(l);i>=(r);--i)
-#define il inline
 typedef double db;
 typedef long long ll;
 
