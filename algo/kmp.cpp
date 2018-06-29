@@ -18,7 +18,7 @@ typedef double db;
 //---------------------------------------
 const int nsz=1e6+50;
 char s1[nsz],s2[nsz];
-int sz1,sz2,ne[nsz],pl[nsz],pp=0;//max sz of prefix and suffix
+int sz1,sz2,ne[nsz],pl[nsz],pp=0;//max sz of pre and suf
 
 void getnext(){
 	ne[0]=ne[1]=0;
